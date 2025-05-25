@@ -1,5 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
+from tkinter import messagebox
 from utils.style import apply_theme
 from services.auth import authenticate_user
 
